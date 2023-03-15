@@ -1,0 +1,12 @@
+{
+  "name": "gatsby-source-anyxml",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "xmldom": "^0.6.0",
+    "xpath": "^0.0.32"
+  }
+}
